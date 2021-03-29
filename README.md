@@ -6,11 +6,11 @@
 I am interested in 💻 Web Development, 🖥 Design, 🎨 Art and 🕹 Video Games.
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Node.JS and Express**
 
-- 📫 How to reach me **javdominguez@icloud.com**
+- 📫 Reach me at **javdominguez@icloud.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1us8QD0xPqLekI81TtuRNXy6g796YTnd0/view?usp=sharing)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1us8QD0xPqLekI81TtuRNXy6g796YTnd0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
