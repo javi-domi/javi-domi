@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="center">A passionate front-end developer from Guatemala, based in Rio de Janeiro</h3>
+<h3 align="center">A passionate Web Developer from Guatemala, based in Rio de Janeiro</h3>
 
 I am interested in 💻 Web Development, 🖥 Design, 🎨 Art and 🕹 Video Games.
 
