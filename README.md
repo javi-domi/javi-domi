@@ -5,7 +5,7 @@
 <p align="center">I am interested in 💻 Web Development, 🖥 Design, 🎨 Art and 🕹 Video Games.</p>
 <p align="center">🌱 I’m currently learning **React**</p>
 <p align="center">📫 Reach me at **javdominguez@icloud.com**</p>
-<p align="center">📄 Know about my experiences: <a hreft="" target="blank" >Clicking here 🗂</a></p>
+<p align="center">📄 Know about my experiences: <a href="https://drive.google.com/file/d/1JZgZMwzVDbmVZw5kkCfGYit48rCIvhgr/view?usp=sharing" target="blank" >Clicking here 🗂</a></p>
 
 
 <h3 align="center">Connect with me:</h3>
