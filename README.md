@@ -2,15 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Javier</h1>
 <h3 align="center">A passionate Web Developer from Guatemala, based in Rio de Janeiro</h3>
+<p align="center">I am interested in 💻 Web Development, 🖥 Design, 🎨 Art and 🕹 Video Games.</p>
+<p align="center">🌱 I’m currently learning **React**</p>
+<p align="center">📫 Reach me at **javdominguez@icloud.com**</p>
+<p align="center">📄 Know about my experiences: <a hreft="" target="blank" >Clicking here 🗂</a></p>
 
-I am interested in 💻 Web Development, 🖥 Design, 🎨 Art and 🕹 Video Games.
-
-
-- 🌱 I’m currently learning **React**
-
-- 📫 Reach me at **javdominguez@icloud.com**
-
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1us8QD0xPqLekI81TtuRNXy6g796YTnd0/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
