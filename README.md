@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Web Developer from Guatemala, based in Rio de Janeiro</h3>
 <p align="center">I am interested in 💻 Web Development, 🖥 Design, 🎨 Art and 🕹 Video Games.</p>
 <p align="center">🌱 I’m currently learning **React**</p>
-<p align="center">📫 Reach me at **javdominguez@icloud.com**</p>
+<p align="center">📫 Reach me at <a href="mailto:javdominguez@icloud.com">javdominguez@icloud.com</a></p>
 <p align="center">📄 Know about my experiences: <a href="https://drive.google.com/file/d/1JZgZMwzVDbmVZw5kkCfGYit48rCIvhgr/view?usp=sharing" target="blank" >Clicking here 🗂</a></p>
 
 
