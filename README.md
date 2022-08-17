@@ -81,6 +81,3 @@
 <img src="https://github.com/javi-domi/javi-domi/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
-<p align="left"> 
-<img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" alt="Built with swag" height="28"/> 
-</p>
