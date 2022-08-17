@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<h3 align="left">A passionate Software Developer from Guatemala, based in Rio de Janeiro</h3>
-<p align="left">I am interested in 💻 Software Development/Engineering, 🖥 Data Engineering, 🎨 Art and 🕹 Video Games.</p>
+<h3 align="left">A Data Engineer from Guatemala, based in Rio de Janeiro</h3>
+<p align="left">I am interested in 🖥 Data Engineering, 💻 Software Development/Engineering, 🎨 Art and 🕹 Video Games.</p>
 <p align="left">🌱  I’m currently learning Cloud Data Engineering</p>
 <p align="left">📫  Reach me at <a href="mailto:javdominguez_@outlook.com">javdominguez@icloud.com</a></p>
 
@@ -82,5 +82,5 @@
 </p>
 
 <p align="left"> 
-<img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" alt="Built with swag" width="100" height="40"/> 
+<img src="http://ForTheBadge.com/images/badges/built-with-swag.svg" alt="Built with swag" height="28"/> 
 </p>
