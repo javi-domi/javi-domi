@@ -43,3 +43,5 @@
 
 
 ![snake gif](https://github.com/javi-domi/javi-domi/blob/output/github-contribution-grid-snake.svg)
+
+<span> <img src="http://ForTheBadge.com/images/badges/built-with-swag.svg"/> </span>
