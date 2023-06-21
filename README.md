@@ -2,7 +2,7 @@
 <h3 align="left">A Data Engineer from Guatemala, based in Rio de Janeiro</h3>
 <p align="left">I am interested in 🖥 Data Engineering, 💻 Software Development/Engineering, 🎨 Art and 🕹 Video Games.</p>
 <p align="left">🌱  I’m currently learning Cloud Data Engineering</p>
-<p align="left">📫  Reach me at <a href="mailto:javdominguez_@outlook.com">javdominguez@icloud.com</a></p>
+<p align="left">📫  Reach me at <a href="mailto:javdominguez_@outlook.com">javdominguez_@outlook.com</a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
